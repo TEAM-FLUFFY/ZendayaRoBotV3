@@ -407,7 +407,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     caption=f_caption,
                     protect_content=True if ident == "filep" else False 
                 )
-                await query.answer('𝙷𝙴𝚈 {query.from_user.first_name}, 𝙲𝙷𝙴𝙲𝙺 𝚈𝙾𝚄𝚁 𝙿𝙼 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼....❤️❤️', show_alert=True)
+                await query.answer('𝙲𝙷𝙴𝙲𝙺 𝚈𝙾𝚄𝚁 𝙿𝙼 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼....❤️❤️', show_alert=True)
         except UserIsBlocked:
             await query.answer('You Are Blocked to use me', show_alert=True)
         except PeerIdInvalid:
@@ -681,13 +681,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('✈️ᗩᗪᗪ ᗰᗴ TO ᗩ ᑕᕼᗩT ᘜᖇOᑌᑭ✈️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('📉 GᏒԾUᎮ 📉', url='https://t.me/movies_hub_group_2022'),
-            InlineKeyboardButton('📈 CHΛИИΞL 📈', url='https://t.me/mc_movie_update_2022')         
+            InlineKeyboardButton('📉 GᏒԾUᎮ 📉', url='https://t.me/ADHOLOKAMHD'),
+            InlineKeyboardButton('📈 CHΛИИΞL 📈', url='https://t.me/ADHOLOKAMHDCHANNEL')         
             ],[
             InlineKeyboardButton('ᕼᗴᒪᑭ', callback_data='help'),
             InlineKeyboardButton('🤠ᗩᗷOᑌT🤠', callback_data='about')
             ],[
-            InlineKeyboardButton('🔎Տᗴᗩᖇᑕᕼ ᕼᗴTᗴ🔍', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔎Տᗴᗩᖇᑕᕼ ᕼᗴᖇᗴ🔍', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
