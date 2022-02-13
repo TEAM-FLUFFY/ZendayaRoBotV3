@@ -3,7 +3,7 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 ❤️❤️"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: 𝗭𝗲𝗻𝗱𝗮𝘆𝗮𝗥𝗼𝗕𝗼𝘁</b>
+    ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴:  <a href=https://t.me/Naruto_ahautofilterbot>🇨🇷ᑎᗩᖇᑌTO</a></b></b>
 <b>✮ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/HAZARD_77>𝚂𝙷𝙰__</a></b>
 <b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/TEAM_KERALA>ᖴᑌᑕK Oᖴᖴ🇨🇷[𝗢𝗙𝗙𝗟𝗜𝗡𝗘]</a></b>
 <b>✮ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</b>
