@@ -44,13 +44,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('✈️ᗩᗪᗪ ᗰᗴ TO ᗩ ᑕᕼᗩT ᘜᖇOᑌᑭ✈️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('📉 GᏒԾUᎮ 📉', url='https://t.me/movies_hub_group_2022'),
-            InlineKeyboardButton('📈 CHΛИИΞL 📈', url='https://t.me/mc_movie_update_2022')         
+            InlineKeyboardButton('📉 GᏒԾUᎮ 📉', url='https://t.me/ADHOLOKAMHD'),
+            InlineKeyboardButton('📈 CHΛИИΞL 📈', url='https://t.me/ADHOLOKAMHDCHANNEL')         
             ],[
             InlineKeyboardButton('ᕼᗴᒪᑭ', callback_data='help'),
             InlineKeyboardButton('🤠ᗩᗷOᑌT🤠', callback_data='about')
             ],[
-            InlineKeyboardButton('🔎Տᗴᗩᖇᑕᕼ ᕼᗴTᗴ🔍', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔎Տᗴᗩᖇᑕᕼ ᕼᗴᖇᗴ🔍', switch_inline_query_current_chat='')
         ]]  
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -87,13 +87,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('✈️ᗩᗪᗪ ᗰᗴ TO ᗩ ᑕᕼᗩT ᘜᖇOᑌᑭ✈️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('📉 GᏒԾUᎮ 📉', url='https://t.me/movies_hub_group_2022'),
-            InlineKeyboardButton('📈 CHΛИИΞL 📈', url='https://t.me/mc_movie_update_2022')         
+            InlineKeyboardButton('📉 GᏒԾUᎮ 📉', url='https://t.me/ADHOLOKAMHD'),
+            InlineKeyboardButton('📈 CHΛИИΞL 📈', url='https://t.me/ADHOLOKAMHDCHANNEL')         
             ],[
             InlineKeyboardButton('ᕼᗴᒪᑭ', callback_data='help'),
             InlineKeyboardButton('🤠ᗩᗷOᑌT🤠', callback_data='about')
             ],[
-            InlineKeyboardButton('🔎Տᗴᗩᖇᑕᕼ ᕼᗴTᗴ🔍', switch_inline_query_current_chat='')
+            InlineKeyboardButton('🔎Տᗴᗩᖇᑕᕼ ᕼᗴᖇᗴ🔍', switch_inline_query_current_chat='')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
