@@ -5,31 +5,6 @@
   <b>𝗭𝗘𝗡𝗗𝗔𝗬𝗔 𝗥𝗢𝗕𝗢𝗧 𝗘𝗫𝗧𝗥𝗔 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</b>
 </h1>
 
-
-## Features
-
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] Spelling Check Feature
-- [x] Youtube Video , Song , Thumbnail Download.
-- [x] Image Edit.
-- [x] Google Translator.
-- [x] Telegraph
-- [x] Entertainment
-- [x] Sticker ID Generator
-- [x] COVID Information
-- [x] File Store
-
-
 ## Deploy
 You can deploy this bot anywhere.
 
