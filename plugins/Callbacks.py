@@ -1,5 +1,5 @@
 await query.message.edit_text(
-            tennxt="▢▢▢"
+            text="▢▢▢"
         )
         await query.message.edit_text(
             text="▣▢▢"
